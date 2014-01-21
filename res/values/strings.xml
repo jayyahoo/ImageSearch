@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImageSearch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="searchPrompt">Enter Search Query</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="title_activity_android_filter">AndroidFilterActivity</string>
+    
+    <string name="size_prompt">Choose a size</string>
+    <string name="color_prompt">Choose a color</string>
+    <string name="type_prompt">Choose a image type</string>
+    
+    <string-array name="size_arrays">
+        <item>none</item>
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+    </string-array>
+    
+     <string-array name="color_arrays">
+        <item>none</item>
+        <item>black</item>
+        <item>red</item>
+        <item>blue</item>
+        <item>green</item>
+        <item>yellow</item>
+        <item>pink</item>
+        <item>brown</item>
+    </string-array>
+    
+     <string-array name="type_arrays">
+        <item>none</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+
+</resources>
